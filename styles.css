@@ -10,3 +10,11 @@
 .lift{
 	 text-decoration-line:none;
 }
+#body{
+	background-color: rgb(204, 204, 204)
+}
+.player_1 .player_2{
+	background-color:rgb(255, 255, 255);
+	padding:20px;
+	border-radius:10px
+}
